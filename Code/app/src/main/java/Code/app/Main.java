@@ -44,7 +44,7 @@ public class Main {
         for (Long structure : structureSeed) {
             CPos hut1 = SwampHut.getInRegion(structure, regionX = 0, regionY = 0, myChunkRand);
             for (int biomes = 0; biomes < 1 << 16; biomes++) {
-             if (!SwampHut.canSpawn(hut1.getX().hut1.getY()).);
+             if (!SwampHut.canSpawn(hut1.getX().hut1.getY()));
             }
 
 
